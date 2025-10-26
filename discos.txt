@@ -1,3 +1,4 @@
 Muse
 Metallica
 AC/DC
+Añadir 3 discos. Closes #3
